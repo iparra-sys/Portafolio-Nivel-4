@@ -85,24 +85,28 @@ python prediccion_ventas.py
 
 ## 🛠 Tecnologías Usadas
 
-Python 3.13
-TensorFlow / Keras (para redes neuronales)
-scikit-learn (para ML clásico)
-NLTK (para NLP)
-Matplotlib y Seaborn (para visualización)
-pandas y numpy (para manipulación de datos)
+- **Python 3.13**
+- **TensorFlow / Keras** → Para redes neuronales y entrenamiento de modelos
+- **scikit-learn** → Para machine learning clásico (regresión, clasificación)
+- **NLTK** → Para procesamiento de lenguaje natural
+- **Matplotlib y Seaborn** → Para visualización de datos y métricas
+- **pandas y numpy** → Para manipulación y limpieza de datos
+
+---
 
 ## 🎯 Habilidades Desarrolladas
 
-Machine Learning supervisado: clasificación y regresión
-Procesamiento de imágenes: uso de CNNs y normalización
-Procesamiento de texto: tokenización, stopwords, bag of words
-Visualización de métricas: accuracy, pérdida, matriz de confusión
-Automatización de pruebas: predicciones en datos nuevos
+- ✅ **Machine Learning supervisado:** clasificación y regresión
+- ✅ **Procesamiento de imágenes:** uso de CNNs y normalización de datos
+- ✅ **Procesamiento de texto:** tokenización, stopwords y bag of words
+- ✅ **Visualización de métricas:** accuracy, pérdida y matriz de confusión
+- ✅ **Automatización de pruebas:** predicciones con datos nuevos
+
+---
 
 ## 📌 Próximos Pasos
 
-🚀 En las siguientes iteraciones incluiré:
-✅ Modelos más complejos con transfer learning (ej. MobileNet, ResNet)
-✅ Chatbot con integración a OpenAI API para respuestas dinámicas
-✅ Despliegue de modelos en Streamlit para usarlos en la web
+🚀 **En las siguientes iteraciones incluiré:**
+- 🔜 Modelos más complejos con **transfer learning** (MobileNet, ResNet)
+- 🔜 Chatbot con integración a **OpenAI API** para respuestas dinámicas
+- 🔜 Despliegue de modelos en **Streamlit** para usarlos en la web
