@@ -69,19 +69,15 @@ cd Portafolio-Nivel-4
 
 # 2. Crear entorno virtual (opcional pero recomendado)
 python -m venv venv
-# En Windows:
-# venv\Scripts\activate
-# En macOS/Linux:
-# source venv/bin/activate
+source venv/bin/activate  # En Windows: venv\Scripts\activate
 
 # 3. Instalar dependencias
 pip install -r requirements.txt
 
 # 4. Ejecutar proyectos
 python clasificador_imagenes.py
-python chatbot_basico.py
-python prediccion_series.py
-
+python chatbot.py
+python prediccion_ventas.py
 ```
 
 --- 
