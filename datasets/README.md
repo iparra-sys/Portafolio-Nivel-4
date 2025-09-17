@@ -79,33 +79,28 @@ python clasificador_imagenes.py
 python chatbot.py
 python prediccion_ventas.py
 
-🛠 Tecnologías Usadas
+```
+
+--- 
+
+###🛠 Tecnologías Usadas
 
 Python 3.13
-
 TensorFlow / Keras (para redes neuronales)
-
 scikit-learn (para ML clásico)
-
 NLTK (para NLP)
-
 Matplotlib y Seaborn (para visualización)
-
 pandas y numpy (para manipulación de datos)
 
-🎯 Habilidades Desarrolladas
+###🎯 Habilidades Desarrolladas
 
 Machine Learning supervisado: clasificación y regresión
-
 Procesamiento de imágenes: uso de CNNs y normalización
-
 Procesamiento de texto: tokenización, stopwords, bag of words
-
 Visualización de métricas: accuracy, pérdida, matriz de confusión
-
 Automatización de pruebas: predicciones en datos nuevos
 
-📌 Próximos Pasos
+###📌 Próximos Pasos
 
 🚀 En las siguientes iteraciones incluiré:
 ✅ Modelos más complejos con transfer learning (ej. MobileNet, ResNet)
