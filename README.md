@@ -63,18 +63,18 @@ Incluye un pequeño dashboard con Matplotlib para visualizar las tendencias.
 ## 🚀 Instalación y Uso
 
 ```bash
-# 1. Clonar el repositorio
+1. Clonar el repositorio
 git clone https://github.com/iparra-sys/Portafolio-Nivel-4.git
 cd Portafolio-Nivel-4
 
-# 2. Crear entorno virtual (opcional pero recomendado)
+2. Crear entorno virtual (opcional pero recomendado)**
 python -m venv venv
-source venv/bin/activate  # En Windows: venv\Scripts\activate
+source venv/bin/activate   En Windows: venv\Scripts\activate
 
-# 3. Instalar dependencias
+3. Instalar dependencias
 pip install -r requirements.txt
 
-# 4. Ejecutar proyectos
+4. Ejecutar proyectos
 python clasificador_imagenes.py
 python chatbot.py
 python prediccion_ventas.py
